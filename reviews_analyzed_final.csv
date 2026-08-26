@@ -1,0 +1,49 @@
+review_id,product_id,review_text,star_rating,review_date,sentiment_score,sentiment_label
+1,1,"obsessed with this chrome finish, so easy to apply and the mirror shine lasted almost 2 weeks",5,2025-08-01,-0.0333333333333333,neutral
+2,1,"gorgeous color but so messy to apply, powder got everywhere and stained my cuticles",3,2025-08-10,0.25,positive
+3,1,"chipped within 3 days, really disappointed for the price",2,2025-09-05,-0.75,negative
+4,1,took a few tries to get it smooth but once I did it looked salon quality,4,2025-09-20,0.0333333333333333,neutral
+5,2,"the glazed donut look is everything, so glossy and my nails have never gotten more compliments",5,2025-09-20,0.5,positive
+6,2,cute trend but this specific formula was streaky on the first coat,3,2025-10-01,0.25,positive
+7,2,"lasted almost 3 weeks with no chipping, will repurchase",5,2025-10-15,0.0,neutral
+8,2,"looked more cloudy than glazed on my nails, kind of a letdown",2,2025-11-01,0.55,positive
+9,3,"loved being able to do colorful french tips at home, kit came with great tools",4,2025-12-05,0.46,positive
+10,3,the tip guides kept slipping so my lines came out crooked,2,2025-12-15,-0.05,neutral
+11,3,"such a fun twist on classic french tips, my go-to for date nights now",5,2026-01-02,0.116666666666667,positive
+12,3,good kit overall but wish it came with more color options,4,2026-01-15,0.4,positive
+13,4,"the magnetic effect is so cool in person, looks like a tiny galaxy on my nails",5,2026-02-01,0.175,positive
+14,4,"magnet didnt create much of an effect, kind of a letdown",2,2026-02-10,0.4,positive
+15,4,takes practice to hold the magnet right but stunning once you get it,4,2026-03-01,0.392857142857143,positive
+16,4,chipped fast and the shimmer faded after a few days,2,2026-03-15,0.0,neutral
+17,5,"blends like a dream, gives the perfect natural flush",5,2025-08-15,0.55,positive
+18,5,pigment is beautiful but it dries down patchy on dry skin,3,2025-09-01,0.209259259259259,positive
+19,5,"lasted all day through work and dinner, obsessed",5,2025-09-20,-0.5,negative
+20,5,"a little goes a long way, ended up looking way too intense",2,2025-10-05,-0.0125,neutral
+21,6,"finally a tint that doesnt look cakey, my skin looks like skin",5,2025-10-25,0.0,neutral
+22,6,"broke me out within a week, sadly returning it",2,2025-11-05,-0.5,negative
+23,6,"lightweight and buildable, perfect for everyday wear",4,2025-11-20,0.4,positive
+24,6,coverage was way too sheer for my dark spots,3,2025-12-10,-0.075,neutral
+25,7,"so glossy without being sticky, smells amazing too",5,2025-12-20,0.6,positive
+26,7,"left my lips feeling dry after a few hours, not what I expected",2,2026-01-05,-0.0916666666666667,neutral
+27,7,"the glass skin trend but for lips, absolutely stunning shine",5,2026-01-20,0.5,positive
+28,7,wand applicator is awkward and gets clumpy,3,2026-02-01,-0.6,negative
+29,8,"melts into skin so easily, gives the perfect sunkissed look",5,2026-02-15,0.716666666666667,positive
+30,8,"shade range is limited, hard to find my match",3,2026-03-01,-0.181547619047619,negative
+31,8,creased in my fine lines by midday,2,2026-03-10,0.416666666666667,positive
+32,8,"my new everyday bronzer, so easy to blend with fingers",4,2026-04-01,0.123232323232323,positive
+33,9,"my skin has never looked more dewy, the glazed skin look is real",5,2025-08-10,0.35,positive
+34,9,"broke me out, way too heavy for my oily skin",2,2025-08-25,-0.2,negative
+35,9,noticed plumper skin within a week of using it,5,2025-09-10,0.0,neutral
+36,9,nice texture but didnt notice a huge difference,3,2025-09-25,0.5,positive
+37,10,brightened my dark spots so much faster than I expected,5,2025-10-01,-0.0166666666666667,neutral
+38,10,made my skin sting every time I applied it,2,2025-10-15,0.0,neutral
+39,10,texture is light and layers well under moisturizer,4,2025-11-01,0.4,positive
+40,10,didnt notice any brightening after a full month,2,2025-11-20,0.35,positive
+41,11,instantly de-puffed my under eyes before a big event,5,2025-11-15,0.0,neutral
+42,11,patches kept sliding off my face,3,2025-12-01,0.0,neutral
+43,11,cooling effect feels amazing after a rough nights sleep,5,2025-12-15,0.25,positive
+44,11,didnt really do much for my dark circles,2,2026-01-05,0.025,neutral
+45,12,"so refreshing, keeps my skin hydrated all day at my desk",5,2026-02-05,0.5,positive
+46,12,"barely any scent or effect, felt like plain water",2,2026-02-15,-0.0821428571428571,neutral
+47,12,"great layering step before moisturizer, holy grail status",5,2026-03-01,0.8,positive
+48,12,"bottle sprays unevenly, wastes a lot of product",3,2026-03-15,-0.2,negative
