@@ -12,16 +12,10 @@ This project automates that process. It takes raw customer review text, scores i
 
 Tech Stack
 
-Layer
-Tool
-database
-SQLite (via DB Browser for SQLite)
-Data Processing
-Python, pandas
-Sentiment Analysis
-TextBlob
-Visualization
-Power BI
+Database: SQLite (via DB Browser for SQLite)
+Data Processing: Python, pandas
+Sentiment Analysis: TextBlob
+Visualization: Power BI
 
 
 How It Works
